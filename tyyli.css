@@ -1,0 +1,54 @@
+body {
+	background-color: #ffeecc!important;
+}
+
+h1 {
+	font-size: 10vw!important;
+	font-family: Verdana, Arial;
+	text-shadow: 2px 2px gray;
+}
+
+.container {
+	background-color: #ffeecc!important;
+}
+
+.jumbotron {
+		background-color: orange!important;
+		color: white!important;
+
+}
+
+.navbar-nav .nav-link.active {
+    background-color: #ff8000!important;
+	color: white!important;
+}
+
+.navbar-nav .nav-link {
+	color: black!important;
+}
+
+.navbar-nav a:hover {
+	color: white!important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #ff8000!important;
+	color: white!important;
+}
+
+.nav-pills .nav-link {
+	color: black!important;
+}
+
+.nav-pills a:hover {
+	color: #ff8000!important;
+}
+
+.menu {
+	font-size: 16px;
+}
+
+footer {
+	color: black!important;
+	font-size: 14px;
+}
