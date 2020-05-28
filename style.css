@@ -1,0 +1,43 @@
+body {
+	background-color: #fff3e6 !important;
+	font-family: Georgia, Arial !important;
+}
+
+p {
+	font-size: 24px;
+}
+
+.navbar {
+	font-size: 24px;
+
+}
+
+h1 {
+	font-size: 72px !important;
+}
+
+.jumbotron {
+	background-color: #ff8000 !important;
+	font-family: Georgia, Arial;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
